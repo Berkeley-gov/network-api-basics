@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "ip": "^1.1.8",
+    "iplocation": "^7.2.0",
+    "longitude": "^0.1.2",
+    "network-speed": "^2.1.1",
+    "node-fetch": "^3.2.10",
+    "node-where": "^1.1.0"
+  },
+    "type": "module"
+}
